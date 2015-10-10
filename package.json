@@ -1,0 +1,10 @@
+{
+  "name": "mithril-bootstrap-modal",
+  "version": "1.0.0",
+  "description": "Bootstrap modal with Mithril.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cvermeul/mithril-bootstrap-modal.git"
+  }
+}
